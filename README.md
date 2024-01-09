@@ -38,6 +38,14 @@ To reproduce the results, please follow these steps:
 You may cite our paper as follows:
 
 ```bibtex
+@inproceedings{zhu2023probing,
+  title={Probing Bilingual Guidance for Cross-Lingual Summarization},
+  author={Zhu, Dawei and Wu, Wenhao and Li, Sujian},
+  booktitle={CCF International Conference on Natural Language Processing and Chinese Computing},
+  pages={749--760},
+  year={2023},
+  organization={Springer}
+}
 ```
 
 ## Contact
